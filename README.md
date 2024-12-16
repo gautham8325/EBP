@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/gautham8325/Employees-Burnout-Analysis-and-Prediction.git
+https://github.com/gautham8325/Employee-burnout-prediction-using-Machine-Learning
 ```
 2. Install the project dependencies by running the following command:
 ```
